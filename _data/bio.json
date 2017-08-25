@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Austin Tasato",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://techfolios.github.io/template/images/Austin.png",
     "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "phone": "808-726-5942",
+    "website": "https://vermillionazure.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Spring 2018.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "1088 Bishop St. #1711",
+      "postalCode": "96813",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,24 +17,14 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "vermillionazure",
+        "url": "http://github.com/vermillionazure"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "http://linkedin.com/in/aytasato"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
@@ -62,22 +52,31 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "C++ (C++11)",
+        "Java 8",
+        "JavaScript",
+        "Scheme",
+        "Boost C++ Libraries",
+        "SDL",
+        "SFML"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows 10",
         "Ubuntu",
-        "Git/GitHub",
+        "Git",
+        "GitHub",
+        "Trello",
         "g++",
-        "TI LaunchPad"
+        "clang++",
+        "Travis CI",
+        "CMake",
+        "CLion",
+        "GNU Make",
+        "Eclipse IDE"
       ]
     }
   ],

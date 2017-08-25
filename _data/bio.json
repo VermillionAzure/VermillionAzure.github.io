@@ -1,168 +1,182 @@
 {
-  "basics": {
-    "name": "Austin Tasato",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/Austin.png",
-    "email": "atasato@hawaii.edu",
-    "phone": "808-726-5942",
-    "website": "https://vermillionazure.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Spring 2018.",
-    "location": {
-      "address": "1088 Bishop St. #1711",
-      "postalCode": "96813",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+    "basics": {
+        "name": "Austin Tasato",
+        "label": "Student",
+        "picture": "https://vermillionazure.github.io/images/Austin.png",
+        "email": "atasato@hawaii.edu",
+        "phone": "808-726-5942",
+        "website": "https://vermillionazure.github.io",
+        "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Spring 2018.",
+        "location": {
+            "address": "1088 Bishop St. #1711",
+            "postalCode": "96813",
+            "city": "Honolulu",
+            "countryCode": "USA",
+            "region": "Hawaii"
+        },
+        "profiles": [
+            {
+                "network": "github",
+                "username": "vermillionazure",
+                "url": "http://github.com/vermillionazure"
+            },
+            {
+                "network": "linkedin",
+                "username": "aytasato",
+                "url": "http://linkedin.com/in/aytasato"
+            },
+            {
+                "network": "wordpress",
+                "username": "Vermie",
+                "url": "http://vermillionazure.com"
+            }
+        ]
     },
-    "profiles": [
-      {
-        "network": "github",
-        "username": "vermillionazure",
-        "url": "http://github.com/vermillionazure"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/aytasato"
-      },
+    "interests": [
+        {
+            "name": "programming language interpreters",
+            "keywords": [
+                "recursive descent parsing",
+                "Dybvig's Scheme heap-based model",
+                "virtual machine",
+                "automatic memory management",
+                "continuations",
+                "expression macros",
+                "expression scope",
+                "nanopass compilers",
+                "JIT",
+                "Lisp and homoiconicity"
+            ]
+        },
+        {
+            "name": "programming language theory",
+            "keywords": [
+                "static vs. dynamic type systems",
+                "polymorphism",
+                "proof assistants",
+                "Turing completeness",
+                "control flow analysis",
+                "type systems",
+                "lambda calculus",
+                "continuation-passing style (CPS)",
+                "single static assignment (SSA)"
+            ]
+        },
+        {
+            "name": "data science",
+            "keywords": [
+                "power testing",
+                "a-b testing",
+                "p-value hacking",
+                "clustering analysis",
+                "regression analysis",
+                "principal component analysis",
+                "pseudo-temporal evolution analysis (Monocle)",
+                "machine learning"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Languages and Frameworks",
+            "level": "",
+            "keywords": [
+                "C",
+                "C++ (C++11)",
+                "Java 8",
+                "JavaScript",
+                "Scheme",
+                "Boost C++ Libraries",
+                "Google Test",
+                "Google Mock",
+                "Catch",
+                "SDL",
+                "SFML"
+
+            ]
+        },
+        {
+            "name": "Toolsets/OS",
+            "level": "",
+            "keywords": [
+                "Windows 10",
+                "Ubuntu",
+                "Git",
+                "GitHub",
+                "Trello",
+                "g++",
+                "clang++",
+                "Travis CI",
+                "CMake",
+                "CLion",
+                "GNU Make",
+                "Eclipse IDE"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University of Hawaii, Honolulu, HI",
+            "area": "Computer Science (expected Spring 2018)",
+            "studyType": "B.S.",
+            "startDate": "2014-08-01",
+            "endDate": "Present",
+            "gpa": "3.47",
+            "courses": [
+                "Operating Systems",
+                "Data Structures and Algorithms",
+                "Parallel and High-Performance Computing",
+                "Software Engineering",
+                "Object-Oriented Programming",
+                "Social Informatics",
+                "Cognitive Science",
+                "Signals and Systems (Laplace, Fourier, Sampling)",
+                "Probability Theory",
+                "Electromagnetic Wave Theory"
+            ]
+        }
+    ],
+
+    "work": [
+        {
+            "company": "Amazon Web Services",
+            "position": "Software Development Engineer Intern",
+            "website": "",
+            "startDate": "2017-05-01",
+            "summary": "Joined the AWS Commerce Platform division's Fraud Prevention Team. Worked for 12 weeks with mentorship on an automation tool which involved heavy use of design patterns in Java, API use, and internal deployment practices (related tools/libraries: Mockito, JUnit, Eclipse IDE). Got experience with standard practices in unit/integration testing, continuous integration, code reviews, and light on-call issue resolution. Used various AWS services -- AWS Lambda, SNS, SQS, DynamoDB, CloudWatch, etc. Deployed majority of project to production. Touched lightly on Node.js and testing with Mocha.",
+            "highlights": []
+        },
+        {
+            "company": "Booz Allen Hamilton",
+            "position": "Summer Intern - Systems Delivery",
+            "website": "",
+            "startDate": "2016-06-01",
+            "summary": "Participated in the 2016 Summer Games internship program for 9 weeks after participating in the first WhatIf? ideas festival for Booz Allen Hamilton in Honolulu. Worked on a virtual reality project; primarily worked with sound effect synthesis and United State Geological Survey GIS data adaptation for 3D landsacpe modeling.",
+            "highlights": [],
+            "endDate": "2016-08-01"
+        },
+        {
+            "company": "REIS - Smart Campus Energy Lab",
+            "position": "Machine Learning and Forecasting Team Member",
+            "website": "",
+            "startDate": "2016-01-01",
+            "summary": "http://reishawaii-scel.org/ - REIS is the Renewable Energy and Island Sustainability Lab, and SCEL is the Smart Campus Energy Lab subdivision dedicated to improving the efficiency of the production of energy. Our primary work involves work on weather boxes and using weather information to improve the production of green energy. The machine learning and forecasting team is a fairly new team that experiments with methods for predicting weather information using modern methods and technologies. Our primary focus is towards Jupyter (formerly known as iPython) as a platform to perform regression and prediction on our data. We use statistical methods to analyze the data we receive from our in-house designed weather boxes.",
+            "highlights": []
+        },
+        {
+            "company": "The Research Corporation of the University of Hawai'i",
+            "position": "Bioinformatics Intern - Workflow Application Development",
+            "website": "",
+            "startDate": "2015-07-01",
+            "summary": "Joined and worked as an intern under Dr. Lana Garmire and the Cancer Epidemiology Program at the University of Hawaii Cancer Center. Current area of work involves implementing a workflow application for single-celled RNA-sequencing data using a web development framework with Shiny in the statistical programming language R. Gained exposure to statistical methods for normalization, outlier reduction, unsupervised/supervised clustering, differential expression analysis, and gene enrichment analysis using, e.g. Gene Ontology or the Kyoto Encyclopedia of Genes and Genomes. Used the Shiny web application framework for R extensively through the course of development.",
+            "highlights": [],
+            "endDate": "2016-05-01"
+        }
+    ],
+    "references": [
+        {
+            "name": "Available upon request",
+            "reference": ""
+        }
     ]
-  },
-  "interests": [
-    {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++ (C++11)",
-        "Java 8",
-        "JavaScript",
-        "Scheme",
-        "Boost C++ Libraries",
-        "SDL",
-        "SFML"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "Windows 10",
-        "Ubuntu",
-        "Git",
-        "GitHub",
-        "Trello",
-        "g++",
-        "clang++",
-        "Travis CI",
-        "CMake",
-        "CLion",
-        "GNU Make",
-        "Eclipse IDE"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
 }

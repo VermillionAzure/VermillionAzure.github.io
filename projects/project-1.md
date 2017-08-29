@@ -10,7 +10,7 @@ labels:
 - Programming Langauge Interpreter
 - C++11
 - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: A Scheme interpreter/compiler built in C++ as an independent student-run project.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/TranspilerProjectLogo.png">

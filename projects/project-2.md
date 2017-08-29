@@ -1,24 +1,38 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/ford_island_bah.png
+title: Ford Island VR
 permalink: projects/vacay
-date: 2015
+date: 2016
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+    - Unity
+    - C#
+    - Virtual Reality
+    - Sound Design
+    - 3D Modeling
+    - Blender
+    - FL Studio
+    - Adobe Audition
+    - GIS
+summary: A virtual reality project I developed as a part of a 6-man intern team at Booz Allen Hamilton.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image"
+     src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Ford_Island_Hawaii_space_photo_2009.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Over the course of 10 weeks in Summer 2016, I and 5 other people developed a
+virtual reality application in Unity to replicate the experience of the
+Attack of Pearl Harbor as seen and experienced from Ford Island.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Over the course of this internship, I was able to get experience designing
+sound for the experience in FL Studio and Adobe Audition. Additionally,
+I got experience in 3D modeling with Blender, and helped create a model of
+Ford Island from geographic information system (GIS) data.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+I also got design experience in presenting and delivering both team and
+individual idea pitches to executives and management members of Booz Allen
+Hamilton.
+
+
+

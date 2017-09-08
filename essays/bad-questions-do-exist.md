@@ -26,7 +26,7 @@ searching for it on the Internet. Questions that leave out critical diagnostic
 information/context or show a lack of effort trying to get the solution alone
 bring people to a single reaction:
 
-# The Ugly
+## The Ugly
 
 If information is so easy to get and the user is not getting it -- then the
 most probable options are:
@@ -54,7 +54,7 @@ don’t write one.”
 
 Here, I’ve highlighted two questions: a good one and a bad one.
 
-# The Good
+## The Good
 
 [This smart 
 question](https://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array)
@@ -104,7 +104,7 @@ simply says “branch prediction” and a few more phrases -- but, it’s not as
 well-rated. I think that, although it is not a stupid answer, it doesn’t have
 the same amount of detail and effort put into it as the accepted one.
 
-# The Bad
+## The Bad
 
 Now then -- [this
 question](https://stackoverflow.com/questions/21864038/c-wxwidgets-tdm-gcc-compiler-undefined-reference-to-winmain-in-drive-h)
@@ -135,7 +135,7 @@ defined macro, and thus -- all normal wxWidgets programs must include to work.
 In other words, the question asker failed to
 “read the f\*\*\*\*\*\* manual” (RTFM).
 
-# Getting Personal
+## Getting Personal
 
 This is a very important topic for me because it’s a personal one -- the “bad”
 question supplied here is actually mine. It was one of the questions that

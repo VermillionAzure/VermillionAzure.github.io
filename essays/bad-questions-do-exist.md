@@ -20,7 +20,7 @@ labels:
 
 Most software engineering errors and problems have very specific and exact
 conditions -- perhaps the user made a typo, or the user is missing a line from
-a configuration file, or the user is using the wrong version of a library.
+a configuration file, or the user is using a wrong version of a library.
 Information is easy to get due to the low barrier of effort required when
 searching for it on the Internet. Questions that leave out critical diagnostic
 information/context or show a lack of effort trying to get the solution alone

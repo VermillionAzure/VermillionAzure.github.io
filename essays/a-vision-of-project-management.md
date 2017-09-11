@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: A Vision of Project Management.
+title: A Vision of Project Management
 date: 2017-09-01
 labels:
   - Engineering

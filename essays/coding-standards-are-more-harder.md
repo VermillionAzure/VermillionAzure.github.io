@@ -21,7 +21,11 @@ alt="If you use grammar incorrectly on the Internet, your gonna have a bad time.
 Do you think the title of this web page makes the article seem unprofessional?
 Unpolished? *Offensive?* *Dangerous?*
 
-Enter: **Coding Standards**.
+I think that the title is a good starting point as a analogy for coding
+conventions -- sometimes, grammar is a trivial thing, and other times,
+it can get in the way of things and make things harder to understand.
+
+Enter: **coding standards**.
 
 ## Coding what?
 

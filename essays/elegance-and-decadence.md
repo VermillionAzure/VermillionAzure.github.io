@@ -12,14 +12,15 @@ labels:
 <center>
 <img class="ui large round image"
      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Marie-Antoinette%2C_1775_-_Mus%C3%A9e_Antoine_L%C3%A9cuyer.jpg/800px-Marie-Antoinette%2C_1775_-_Mus%C3%A9e_Antoine_L%C3%A9cuyer.jpg" />
-<caption>"Let them eat cake." Can proponents of design patterns (not just GoF) 
+<caption>"Let them eat cake."
+Can proponents of design patterns (not just GoF) 
 sometimes be ignoring their inherent complexity? </caption>
 </center>
 
 ## What is the proper place for design patterns?
 
 **["Design patterns are a 
-language,"](https://softwareengineering.stackexchange.com/questions/9219/are-design-patterns-generally-a-force-for-good-or-bad),** 
+language,"](https://softwareengineering.stackexchange.com/questions/9219/are-design-patterns-generally-a-force-for-good-or-bad)** 
 so says Stack Overflow. But in reality, what really is the *proper* place
 for design patterns? I've heard bits and pieces on the side that design
 patterns are, indeed, important, but should not form the basis for a
@@ -29,7 +30,7 @@ well, the *design* of software products in industry.
 
 We come to an impass: how should design patterns be framed?
 
-## Welcome to the jungle...
+## Welcome to the jungle
 
 When I interned at Amazon over the past summer, I was able to vaguely
 attach myself onto the code I worked on over the summer, and I was also
@@ -79,7 +80,7 @@ into function calls, objects, automata, and systems. We use encapsulation
 and information hiding to simplify the design of a system, and to make it
 usable at a higher level. 
 
-## The Message
+## A message to be considered
 
 I want to assert one thing -- **design patterns are valuable primarily as
 a means of establishing a common ground for design.** Surely, the gurus
